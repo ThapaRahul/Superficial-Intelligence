@@ -1,8 +1,0 @@
-Birth - change #s to 1... instead of arbitrary numbers
-    Possibly add options for America vs International
-
-Race - 1 column for each race, make binaries (lump SP with these)
-
-Own - replace D and R with NA (possibly remove)
-
-Mortgage Info - don't knows can become NA
